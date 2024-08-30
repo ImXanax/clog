@@ -1,0 +1,11 @@
+{
+  "name": "clog",
+  "version": "1.0.0",
+  "description": "declog your logs with clog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "-l||l-",
+  "license": "ISC"
+}
